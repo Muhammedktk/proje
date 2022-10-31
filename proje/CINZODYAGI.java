@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class CINZODYAGI {
     public static void main(String[] args) {
         Scanner inp=new Scanner(System.in);
+        //doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazınız.
         int born;
         System.out.println("YEAR :  ");
         born= inp.nextInt();
